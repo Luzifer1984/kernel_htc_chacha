@@ -8,4 +8,8 @@ kernel_htc_chacha
 
 How to compile kernel from source
 
-  [README]: https://github.com/Luzifer1984/kernel_htc_chacha/blob/cm-10.1/README
+[README](https://github.com/Luzifer1984/kernel_htc_chacha/blob/cm-10.1/README)
+***
+
+
+
